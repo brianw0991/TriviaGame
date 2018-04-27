@@ -1,0 +1,57 @@
+
+body {
+    padding: 5% 0;
+    background-image: url("../images/background.jpg");
+}
+
+
+.jumbotron {
+    height: 600px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.title {
+    font-size: 100px;
+}
+
+#eagleCage {
+    position: relative;
+    top: 30px;
+    width: 100%;
+    height: auto;
+}
+
+#eagle {
+    position: absolute;
+    top: 180px;
+    left: -460px;
+
+}
+
+.display-4 {
+    text-align: center;
+}
+
+#no1 {
+    margin: auto;
+}
+
+#startButton {
+    font-size: 100px;
+}
+
+.btn {
+    border-color: blue;
+    border-width: 3px;
+    background-color: red;
+    line-height: 300px;
+}
+
+.btn:hover {
+    border-color: red;
+    border-width: 3px;
+    background-color: blue;
+}
